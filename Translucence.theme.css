@@ -13,15 +13,15 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://i.imgur.com/bgmVeyt.jpg);
-	--app-blur: 6px;
+	--app-bg: url(https://wallpapercave.com/wp/wp3354909.png);
+	--app-blur: 0px;
 	--app-margin: 24px;
 	--app-radius: 8px; /*	-	*/
 	
-	--accent-hue: 156;
-	--accent-saturation: 77.5%;
-	--accent-lightness: 47.1%;
-	--accent-opacity: 1;
+	--accent-hue: 120;
+	--accent-saturation: 100%;
+	--accent-lightness: 50%;
+	--accent-opacity: 0.8;
 	--accent-text-color: #000; /*	-	*/
 
 	--sidebar-color: rgba(0,0,0,0.4);
@@ -53,10 +53,10 @@
 	--button-radius: 16px; /*	-	*/
 
 	--interactive-normal: #aaa;
-	--interactive-hover: #ddd;
-	--interactive-active: #fff;
+	--interactive-hover: #80ff80;
+	--interactive-active: #3AFF10;
 	--interactive-muted: #777; /*	-	*/
 
-	--background-modifier-hover: rgba(255,255,255,0.075);
-	--background-modifier-selected: rgba(255,255,255,0.125);
+	--background-modifier-hover: rgba(0, 156, 0, 0.11);
+	--background-modifier-selected: rgba(43, 255, 0, 0.308);
 }
